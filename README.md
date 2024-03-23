@@ -11,7 +11,7 @@ I'm excited to embark on a journey to learn and grow in the dynamic world of web
 
 🌱 I'm currently seeking an internship opportunity that will provide hands-on experience and mentorship, allowing me to apply my theoretical knowledge to real-world projects. I'm excited to contribute my fresh perspective and collaborative spirit to a team that values growth and innovation. If you're looking for a dedicated and innovative full stack developer to join your team, let's connect! Feel free to reach out to discuss how my skills align with your project goals.
 
-📬 If you're looking for a dedicated and motivated full stack development intern with an unquenchable thirst for knowledge, a determination to succeed, and a hunger to contribute, I'd love to connect and explore how I can contribute to your team. Feel free to reach out to me here on LinkedIn or through email at saideepan0v@gmail.com or my linedIn account www.linkedin.com/in/sai-deepan. Let's explore how I can add value to your team and make the most of this exciting internship opportunity!
+📬 If you're looking for a dedicated and motivated full stack development intern with an unquenchable thirst for knowledge, a determination to succeed, and a hunger to contribute, I'd love to connect and explore how I can contribute to your team. Feel free to reach out to me here on LinkedIn or through email at saideepan0v@gmail.com or my linedIn account www.linkedin.com/in/saideepan. Let's explore how I can add value to your team and make the most of this exciting internship opportunity!
 <!---
 Saideepan01/Saideepan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
